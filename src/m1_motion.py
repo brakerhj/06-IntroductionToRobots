@@ -2,11 +2,11 @@
 An opportunity to explore how to make an EV3 Robot move.
 
 Authors: Dave Fisher, David Mutchler, Vibha Alangar,
-their colleagues, and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+their colleagues, and Haley Braker.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # -----------------------------------------------------------------------------
-# TODO: 2.
+# DONE: 2.
 #   Follow along with the lecture to run this program:
 #    - Using SSH from your computer
 #   When you have successfully run this program, change this _TODO_ to DONE.
